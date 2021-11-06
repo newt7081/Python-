@@ -13,20 +13,7 @@ for i in range(100000000):
 	f.write("\n")
 f.close()
 
-
-
-
-
-
 # a = 1
 # b = "0"+str(a)
 # b = "0"+b
 # print(b)
-
-
-
-
-
-
-
-
